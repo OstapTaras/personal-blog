@@ -1,0 +1,9 @@
+[submodule "themes/hello-friend-theme"]
+	path = themes/hello-friend-theme
+	url = https://github.com/OstapTaras/hugo-theme-hello-friend.git
+[submodule "hello-theme"]
+	path = hello-theme
+	url = https://github.com/OstapTaras/hugo-theme-hello-friend.git
+[submodule "themes/hello-theme"]
+	path = themes/hello-theme
+	url = https://github.com/OstapTaras/hugo-theme-hello-friend.git
