@@ -1,3 +1,6 @@
 [submodule "themes\\kiera"]
 	path = themes\\kiera
 	url = https://github.com/avianto/hugo-kiera.git
+[submodule "kiera"]
+	path = kiera
+	url = https://github.com/avianto/hugo-kiera.git
