@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Draft-Blog"
-theme = "kiera"
+theme = "kiera-theme"
 
