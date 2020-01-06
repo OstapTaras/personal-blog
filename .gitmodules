@@ -7,6 +7,3 @@
 [submodule "themes/parsa"]
 	path = themes/parsa
 	url = https://github.com/themefisher/parsa-hugo.git
-[submodule "themes/hello-friend-theme"]
-	path = themes/hello-friend-theme
-	url = https://github.com/panr/hugo-theme-hello-friend.git
