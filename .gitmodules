@@ -1,3 +1,12 @@
 [submodule "themes/kiera-theme"]
 	path = themes/kiera-theme
 	url = https://github.com/avianto/hugo-kiera.git
+[submodule "themes/northenlab-theme"]
+	path = themes/northenlab-theme
+	url = https://github.com/themefisher/northendlab-hugo.git
+[submodule "themes/parsa"]
+	path = themes/parsa
+	url = https://github.com/themefisher/parsa-hugo.git
+[submodule "themes/hello-friend-theme"]
+	path = themes/hello-friend-theme
+	url = https://github.com/panr/hugo-theme-hello-friend.git
