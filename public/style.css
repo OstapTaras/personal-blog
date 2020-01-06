@@ -1,0 +1,8 @@
+.object-3d {
+    width:860px;
+    height:473px;
+    border-radius: 8px;
+    margin: 40px -50px;
+    max-width: 860px;
+    box-shadow: 0 12px 40px rgba(0,0,0,.15);
+}
